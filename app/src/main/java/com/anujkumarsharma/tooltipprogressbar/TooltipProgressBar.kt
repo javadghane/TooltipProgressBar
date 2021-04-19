@@ -111,7 +111,7 @@ class TooltipProgressBar @JvmOverloads constructor(
             this.bottomToolTipText = attrs.getString(R.styleable.TooltipProgressBar_optionBottomTooltipText)?:""
             this.topTooltipColor = attrs.getInt(
                 R.styleable.TooltipProgressBar_optionTopTooltipColor,
-                ContextCompat.getColor(context, R.color.red))
+                ContextCompat.getColor(context, R.color.white))
             this.bottomTooltipColor = attrs.getInt(
                 R.styleable.TooltipProgressBar_optionBottomTooltipColor,
                 ContextCompat.getColor(context,
