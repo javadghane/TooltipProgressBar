@@ -13,7 +13,7 @@ import android.graphics.drawable.LayerDrawable
 import android.graphics.drawable.RotateDrawable
 import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.core.content.ContextCompat
-import com.anuj55149.testtooltipprogressbar.R
+import com.anujkumarsharma.testtooltipprogressbar.R
 
 
 class TooltipProgressBar @JvmOverloads constructor(
