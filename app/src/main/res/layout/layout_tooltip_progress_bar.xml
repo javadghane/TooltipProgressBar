@@ -60,7 +60,7 @@
         android:paddingTop="@dimen/margin_4"
         android:paddingBottom="@dimen/margin_4"
         android:textColor="@color/white"
-        android:textSize="@dimen/text_18"
+        android:textSize="14sp"
         tools:text="You: 75 Jobs"
         android:visibility="gone"
         tools:visibility="visible"/>
@@ -94,7 +94,7 @@
         android:paddingTop="@dimen/margin_4"
         android:paddingBottom="@dimen/margin_4"
         android:textColor="@color/white"
-        android:textSize="@dimen/text_14"
+        android:textSize="14sp"
         tools:text="Gold: 100 Jobs"
         android:visibility="gone"
         tools:visibility="visible"/>
